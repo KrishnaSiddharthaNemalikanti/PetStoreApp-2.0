@@ -1,0 +1,19 @@
+Requirements
+•	Write a mini React SPA that let users browse pets for adoption. 
+•	Users will have to fill a form requiring a zip code, animal, breed, and max age (of the pet). The submit is disabled until the user fills all the fields. Fields are validated. Animal and breed are both dropdown where the latter changes according to what the user selected as animal. (animals and breeds lists are fetched from the server)
+•	After the user submits the form, he gets a list of available pets meeting his search criteria in a separate view. Each record includes the picture, name, age, location, and a link to a details view. User should also be allowed to go back to the form to make a new search (can be done by a link on the top navigation)
+•	Details view gives the user more information about the pet. It also allows the user to go back to his previous search.
+
+Implementation 
+•	Use both Class and Functional components.
+•	Use Hooks with functional components.
+•	Use webpack with a dev and prod configurations.
+•	Write a small express server that can feed sample pets data to the front end.
+•	Set up Babel.
+•	Use Context to manage global state.
+•	Use any presets or packages that can make your task easier.
+•	You can use/customize material-ui components or write your own components and styles from scratch.
+•	Provide a repo URL of the final code with instructions to run it.
+
+Evaluation
+•	Candidates should be able to explain and justify their design and implementation choices.
