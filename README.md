@@ -20,7 +20,7 @@ Configured with WebPack and Babel 7
 * Now if you see the msg server running on port 5000 ,congrats your server is running.
 * if you see the msgConnected to the MY database,you have succesfully connected to the database and your api is ready.*  
 # how to use the application
-* Click on the New Search Form ,to enter your search
+* Click on the Search Form ,to enter your search
 * enter valid input values  for fields zipcode,age ,they are mentioned below
 * click submit,you will be taken to the results page 
 * from here you can goback to the Form page by clicking on search form link
