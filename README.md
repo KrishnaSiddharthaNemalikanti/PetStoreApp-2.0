@@ -1,6 +1,6 @@
 # PetStoreApplication
 Configured with WebPack and Babel 7
-## petStoreUI
+## web-ui
 # Steps to Run the App:
 
 * Open the terminal on the petStoreUI Folder
@@ -8,7 +8,7 @@ Configured with WebPack and Babel 7
 * Run npm i webpack-dev-server --save-dev(this will install webpack dev server which has hot reloading)
 * Run npm start ,this will open the application in browser.
 
-# PetsApp-API
+# web-api
 * This Folder contains the Node express web server and the Database containing the Sample Pet data.
 
 # Downloads and Installation.
