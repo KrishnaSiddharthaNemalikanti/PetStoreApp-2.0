@@ -24,7 +24,9 @@ Configured with WebPack and Babel 7
 * enter valid input values  for fields zipcode,age ,they are mentioned below
 * click submit,you will be taken to the results page 
 * from here you can goback to the Form page by clicking on search form link
+* if you click on the each result's "click for details",you will be taken to details page,where you can see more details.
 * once here you can click on results link to see your previous search results.
+
 # Sample valid Input values for the form 
 * zipcode:95050,94050(Possible Inputs that u can give)
 * age : 3,2,1(possible inputs that u can give)
