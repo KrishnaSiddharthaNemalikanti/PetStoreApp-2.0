@@ -23,8 +23,8 @@ Configured with WebPack and Babel 7
 * Click on the New Search Form ,to enter your search
 * enter valid input values  for fields zipcode,age ,they are mentioned below
 * click submit,you will be taken to the results page 
-* from here you can goback to the home page by clicking on redirect home page button 
-* once here you can click on Previous results to see your previous search results.
+* from here you can goback to the Form page by clicking on search form link
+* once here you can click on results link to see your previous search results.
 # Sample valid Input values for the form 
 * zipcode:95050,94050(Possible Inputs that u can give)
 * age : 3,2,1(possible inputs that u can give)
